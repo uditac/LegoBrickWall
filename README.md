@@ -10,5 +10,6 @@ He/She will get a prompt to enter the widtha nd height of the brick wall
 Once that is provided, only with positive interger, then the brick wall is made
 ![grafik](https://github.com/user-attachments/assets/104876ff-5d93-485c-9032-ca82157fd9cf)
 
+The solution has only the main problem and does not incorporate Rule 1 and 2. I have hoewever implemented the two layer rule of Rule 2, which says that the wall cannot have any gaps in the first two layers.
 
 #Assumption: I have assumed that there is infinite number of bricks
